@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: /logo.png
+heroImage: /newlogo.png
 bgImageStyle:
   background-attachment: fixed
 heroText: AI.Top
@@ -28,7 +28,7 @@ highlights:
       - title: 交流群
         icon: comment
         details: 交流业内资讯
-        link: ./other/chat.html
+        link: ./other/
 
 
 copyright: false
