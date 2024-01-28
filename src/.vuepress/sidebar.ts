@@ -7,7 +7,6 @@ export default sidebar({
       text: "AI周刊",
       icon: "laptop-code",
       prefix: "newsletter/",
-      link: "article/",
       children: "structure",
     },
 
