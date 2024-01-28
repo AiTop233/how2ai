@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 主页
 heroImage: /logo.png
 bgImageStyle:
   background-attachment: fixed
@@ -9,7 +9,7 @@ heroText: AI.Top
 tagline: 畅想未来世界
 actions:
   - text: 开始探索
-    link: ./demo/
+    link: ./article/
     type: primary
 
 highlights:
