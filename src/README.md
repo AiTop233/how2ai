@@ -9,7 +9,7 @@ heroText: AI.Top
 tagline: 畅想未来世界
 actions:
   - text: 开始探索
-    link: ./article/
+    link: ./newsletter/
     type: primary
 
 highlights:
@@ -18,7 +18,7 @@ highlights:
       - title: AI周刊
         icon: book
         details: 每周AI新闻，了解AI动向
-        link: ./article/
+        link: ./newsletter/
 
       - title: AI扫盲
         icon: tools
